@@ -1,4 +1,4 @@
-ProteinGroupID,Fasta ID,NumSeq,wt_firstRun,wt_concentrated,rac_firstRun,Rac_concentrated,wt,rac,max
+ProteinGroupID,Fasta ID,NumSeq,wt_firstRun,wt_concentrated,rac_firstRun,Rac_concentrated,wt troph,rac trop,max
 451,GL50803_100864,9,0,0,34,25,0,59,59
 348,GL50803_100906,57,0,0,29,83,0,112,112
 122,GL50803_10091,3,0,18,9,7,18,16,18
